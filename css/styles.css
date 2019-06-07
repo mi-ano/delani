@@ -1,8 +1,13 @@
-body {
+.section {
    background-image:  url(../images/h_img.jpg)
 
 }
 
 .about {
    text-align: center
+}
+
+.logo {
+   padding: 35px;
+   position: center;
 }
