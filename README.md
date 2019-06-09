@@ -9,23 +9,27 @@ This is a platform where  our designers create and implement visual design and w
 ### Pre requisites
 You need a web browser installed on your machine as well as a text editor in order to view and edit the files effectively. Examples of text editors:
 
-Atom
-Sublime
-Visual Studio Code
+* Atom
+* Sublime
+* Visual Studio Code
+
 
 
 
 ### Technologies used 
-HTML
-CSS
-BOOTSTRAP
-J QUERY
+* HTML
+* CSS
+* BOOTSTRAP
+* J QUERY
+
+
 
 ## Installation
 Clone the repository to your local machine from the online repository If you have git installed in your machine, from your terminal, you could go to your desired working directory and type the following commands
 
-  git init
-  git clone https://github.com/mi-ano/delani
+ * Git init
+* Git clone  https://github.com/mi-ano/delani
+
 
 
 ## Bugs
