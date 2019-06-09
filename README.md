@@ -6,10 +6,27 @@
 This is a platform where  our designers create and implement visual design and workflows.Through this platform, one is able  to hire a Software Developer to make sure what gets built is what is needed.
 
 
+### Pre requisites
+You need a web browser installed on your machine as well as a text editor in order to view and edit the files effectively. Examples of text editors:
+
+Atom
+Sublime
+Visual Studio Code
+
+
+
 ### Technologies used 
-##*HTML
-##*CSS
-##*JAVASCRIPT
+HTML
+CSS
+BOOTSTRAP
+J QUERY
+
+## Installation
+Clone the repository to your local machine from the online repository If you have git installed in your machine, from your terminal, you could go to your desired working directory and type the following commands
+
+  git init
+  git clone https://github.com/mi-ano/delani
+
 
 ## Bugs
 I haven't come across any single bug but if you spot one feel free to contact me through my E-mail
