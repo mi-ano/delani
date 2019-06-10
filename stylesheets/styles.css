@@ -69,7 +69,7 @@ header{
     justify-content: center;
     color: #fff;
     height: 40vh;
-    background-image: url('/assets/backgrounds/s_image.jpg');
+    background-image: url('../assets/backgrounds/s_image.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@ h6{
     text-align: center;
     justify-content: center;
     align-content: center;
-    background-image: url('/assets/backgrounds/c_image.jpg');
+    background-image: url('../assets/backgrounds/c_image.jpg');
     background-size: cover;
     background-position: center;
 }
